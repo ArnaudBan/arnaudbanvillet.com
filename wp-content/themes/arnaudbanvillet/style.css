@@ -1,0 +1,11 @@
+/*
+Theme Name:     ArnaudBanvillet.com
+Theme URI:      http://www.arnaudbanvillet.com
+Description:    Child theme for the Twenty Eleven to make a portfolio theme for my personal website
+Author:         Arnaud Banvillet
+Author URI:     http://www.arnaudbanvillet.com
+Template:       twentyeleven
+Version:        0.1
+*/
+
+@import url("../twentyeleven/style.css");
