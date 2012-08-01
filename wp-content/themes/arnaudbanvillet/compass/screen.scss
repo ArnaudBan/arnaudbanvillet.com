@@ -28,9 +28,11 @@
 		text-indent: -9999px;
 		background: transparent url('img/bg_web_link.png') left top no-repeat;
 
-	&.viadeo{ background-position-x: -55px;}
-	&.linkdedin{ background-position-x: -110px;}
-	&.facebook{ background-position-x: -165px;}
+		&.viadeo{ background-position-x: -55px;}
+		&.linkdedin{ background-position-x: -110px;}
+		&.facebook{ background-position-x: -165px;}
+		&.github{ background-position-x: -220px;}
+		&.wp{ background-position-x: -275px;}
 	}
 }
 
