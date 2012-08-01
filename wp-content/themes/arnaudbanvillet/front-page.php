@@ -145,16 +145,6 @@ get_header(); ?>
 			</div><!-- .featured-posts -->
 			<?php endif; // End check for published posts. ?>
 
-			<div id="home-web-link">
-				<h1 class="showcase-heading"><?php _e( 'Ailleur sur le web', 'arnaudbanvillet' ); ?></h1>
-				<ul>
-					<li><a href="#" class="viadeo">Viadeo</a></li>
-					<li><a href="#" class="linkdedin">Linkdedin</a></li>
-					<li><a href="#" class="twitter">Twitter</a></li>
-					<li><a href="#" class="facebook">Facebook</a></li>
-				</ul>
-			</div>
-
 
 		</div><!-- #content -->
 	</div><!-- #primary -->
