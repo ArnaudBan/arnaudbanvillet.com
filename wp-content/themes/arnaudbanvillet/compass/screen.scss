@@ -2,6 +2,12 @@
  * Ajout des style du théme fils
  */
 
+// Modification des style de twenty eleven -------------------------------------
+
+img#wpstats{ display: none; }// Masquer le smiley des stat de jetpack
+.featured-posts{ border: 0}// Pas de bordur pour le portfolio sur la page d'accueil
+
+
 //Liste des compétences --------------------------------------------------------
 #arnaudban-skill{
 
@@ -22,7 +28,7 @@
 	}
 	li{
 		float: left;
-		margin-right: 10px;
+		margin: 10px 10px 0 0;
 	}
 	a{
 		display: block;
