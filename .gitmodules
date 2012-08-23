@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/widget-embed-latest-tweets"]
+	path = wp-content/plugins/widget-embed-latest-tweets
+	url = git@github.com:ArnaudBan/widget-embed-latest-tweets.git
