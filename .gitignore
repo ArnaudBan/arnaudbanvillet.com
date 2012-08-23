@@ -10,3 +10,5 @@ wp-content/*
 wp-content/themes/*
 !wp-content/themes/arnaudbanvillet/
 /wp-content/themes/arnaudbanvillet/.sass-cache/
+
+!wp-content/plugins/widget-embed-latest-tweet/
