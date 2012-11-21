@@ -1,8 +1,11 @@
+# Ignore everything in the root except the "wp-content" directory.
 /*
 !.gitignore
-!.gitmodule
+!.gitmodules
 !wp-content/
 
+# Ignore everything in the "wp-content" directory, except the "plugins"
+# and "themes" directories.
 wp-content/*
 !wp-content/themes/
 wp-content/themes/*
