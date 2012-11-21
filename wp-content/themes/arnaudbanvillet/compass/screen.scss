@@ -37,11 +37,11 @@ img#wpstats{ display: none; }// Masquer le smiley des stat de jetpack
 		text-indent: -9999px;
 		background: transparent url('img/bg_web_link.png') left top no-repeat;
 
-		&.viadeo{ background-position-x: -55px;}
-		&.linkdedin{ background-position-x: -110px;}
-		&.facebook{ background-position-x: -165px;}
-		&.github{ background-position-x: -220px;}
-		&.wp{ background-position-x: -275px;}
+		&.viadeo{ background-position: -55px top;}
+		&.linkdedin{ background-position: -110px top;}
+		&.facebook{ background-position: -165px top;}
+		&.github{ background-position: -220px top;}
+		&.wp{ background-position: -275px top;}
 	}
 }
 
